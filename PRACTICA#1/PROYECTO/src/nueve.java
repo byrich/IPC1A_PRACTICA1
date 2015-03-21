@@ -8,7 +8,6 @@ public class nueve {
 		final String d[] = {"","C","CC","CCC","CD","D","DC","DCC","DCCC","CM"};
 		final String e[] = {"","M","MM","MMM"};
 		String a;
-		int ra=0;
 		Scanner so= new Scanner(System.in);
 		System.out.print("Ingrese numero a convertir:      ");
 		a=so.next();
